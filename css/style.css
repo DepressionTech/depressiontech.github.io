@@ -259,6 +259,7 @@
 		
 			ul.menu li
 			{
+				color: #1c1b1a;
 				display: inline-block;
 				line-height: 1em;
 				border-left: solid 1px #dad9d9;
@@ -1147,7 +1148,7 @@
 
 			#header header p
 			{
-				border-top: solid 1px rgba(255,255,255,0.5);
+				border-top: solid 1px rgba(0,0,0,0.5);
 				color: rgba(0,0,0,0.75);
 				text-shadow: 0 0 0.5px rgba(255,255,255,0.1875);
 				font-size: 1em;
@@ -1161,7 +1162,7 @@
 				{
 					content: '';
 					display: block;
-					border-top: solid 1px rgba(255,255,255,0.5);
+					border-top: solid 1px rgba(0,0,0,0.5);
 					margin: 4px 0 0.8em 0;
 				}
 
@@ -1216,7 +1217,7 @@
 
 		#banner .button
 		{
-			color: #35b882;
+			color: #52504e;
 			text-shadow: 0 0 0.5px rgba(53,184,130,0.25);
 		}
 
